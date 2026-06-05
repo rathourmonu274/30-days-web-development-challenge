@@ -32,7 +32,8 @@ I am learning Web Development step by step and uploading my daily progress on Gi
 - ✅ Day 2 - Headings and Paragraphs
 - ✅ Day 3 - Images and Links
 - ✅ Day 4 - HTML Lists
-- ⏳ Day 5 - Coming Soon
+- ✅ Day 5 - HTML Table
+- ⏳ Day 6 - Coming Soon
 
 ## 🛠️ Technologies
 
