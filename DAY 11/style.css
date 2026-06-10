@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  text-align: center;
+  color: #3498db;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 50px;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  border: 2px solid #3498db;
+  border-radius: 10px;
+}
